@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.112.107:8081/risa/repository/hptech-release/</url>
+	      <url>http://52.87.227.43:8081/risa/repository/hptech-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.26.112.107:8081/risa/repository/hptech-snap/</url>
+	      <url>http://52.87.227.43:8081/risa/repository/hptech-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
