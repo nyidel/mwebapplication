@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.87.227.43:8081/risa/repository/hptech-snap/</url>
+	      <url>http://18.205.116.170:8081/risa/repository/hptech-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
